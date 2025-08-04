@@ -1,5 +1,8 @@
 # DeepNews
 
+## Live Preview
+https://hotnewnews.netlify.app/
+
 DeepNews is a modern, responsive news application built with React, TypeScript, and Tailwind CSS. It provides a seamless experience for browsing articles, exploring categories, and staying updated with trending news.
 
 ## Features
